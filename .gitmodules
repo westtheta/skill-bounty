@@ -1,0 +1,3 @@
+[submodule "solana-mev-skill"]
+	path = solana-mev-skill
+	url = git@github-westtheta:westtheta/solana-mev-skill.git
